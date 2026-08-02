@@ -10,3 +10,5 @@ A rebuild of the serverless website WildRydes Workshop in Vue.js with AWS Amplif
 - Aws Cognito
 - Aws Amplify
 - Api Gateway
+
+# Deploy

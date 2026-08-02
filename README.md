@@ -22,3 +22,7 @@ A rebuild of the serverless website WildRydes Workshop in Vue.js with AWS Amplif
 # APIS
 - Gateway
 - REST
+
+# FRAMEWORKS
+- vue
+- express

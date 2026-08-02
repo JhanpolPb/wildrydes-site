@@ -16,3 +16,4 @@ A rebuild of the serverless website WildRydes Workshop in Vue.js with AWS Amplif
 - EC2
 - Buckets
 - S3
+- Triggers

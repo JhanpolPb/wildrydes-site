@@ -39,3 +39,4 @@ A rebuild of the serverless website WildRydes Workshop in Vue.js with AWS Amplif
 
 # AUTOR
 Jhanpol Parra Barreto
+Ing.Software

@@ -38,6 +38,7 @@ A rebuild of the serverless website WildRydes Workshop in Vue.js with AWS Amplif
 - CSS
 - JAVASCRIPT
 - NodeJS
+- Lambdas in NodeJs
 
 # AUTOR
 Jhanpol Parra Barreto
